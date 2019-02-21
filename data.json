@@ -161,8 +161,8 @@
   },
   {
     "id": "17",
-    "photo": "https://tntest.github.io/xyzreader/XYZReader/src/main/res/drawable-nodpi/images/p017.jpg",
-    "thumb": "https://tntest.github.io/xyzreader/XYZReader/src/main/res/drawable-nodpi/thumbs/p017.jpg",
+    "photo": "https://raw.githubusercontent.com/SuperAwesomeness/XYZReader/master/p017_images.jpg",
+    "thumb": "https://raw.githubusercontent.com/SuperAwesomeness/XYZReader/master/p017_thumbs.jpg",
     "aspect_ratio": 1.11235,
     "author": "Ernest Hemingway",
     "title": "Busy Streets Are Still Busy, Even If You Don't Want Them To Be",
